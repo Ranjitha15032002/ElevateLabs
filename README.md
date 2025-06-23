@@ -16,7 +16,7 @@ This project demonstrates data cleaning and preprocessing on the Titanic dataset
 
 ## 📁 Files
 
-- `titanic.csv` – Original dataset  
+- `Titanic-Dataset.csv` – Original dataset  
 - `titanic_cleaning.ipynb` – Jupyter notebook  
 - `titanic_cleaned.csv` – Final cleaned dataset  
 
